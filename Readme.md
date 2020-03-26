@@ -6,8 +6,8 @@ Whenever we go to a mall or any other place, we always want that we should get a
 
 So in this project, a parking lot is imitated.
 
-First user us asked to enter the dimensioins of the parking lot and then the user enters the co-ordinates of where the lift is.
+First user is asked to enter the dimensions of the parking lot and then the user enters the co-ordinates of where the lift is.
 
-Then the distances of all the vacant slots are put in a Priority Queue which is implemented using a Min Heap. Whenever a car enter or exits the queue is updated, so that the next passenger get the nearest vacant slot to the lift.
+Then the distances of all the vacant slots are put in a Priority Queue which is implemented using a Min Heap. Whenever a car enter or exits, the queue is updated, so that the next passenger gets the nearest vacant slot to the lift.
 
 So this is the Parking Lot Project and this is how we have used Priority Queue and Min Heap.
